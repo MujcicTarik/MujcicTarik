@@ -17,7 +17,7 @@ Currently learning and improving in:
 - Spring Framework
 - ReactJS 
 
-[LINKEDIN] (https://www.linkedin.com/in/tarik-mujcic-131582218) [INSTAGRAM] (https://www.instagram.com/tarikmujcic)
+[LINKEDIN](https://www.linkedin.com/in/tarik-mujcic-131582218) 🖇️     [INSTAGRAM](https://www.instagram.com/tarikmujcic) 📸
 
 If you want to know a little bit more about me and my life, feek free to follow me on my networks where I share a little bit more about myself.
 
