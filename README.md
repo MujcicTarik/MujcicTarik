@@ -1,3 +1,5 @@
+## Tarik Mujcic 💻
+
 ### Hello World! :earth_americas:
 
 I'm Tarik Mujcic and I am a Software Developer - mostly focused on developing quality software in Java and C programming language. I'm very passionate about solving problems and creating different solutions. :eyes:      I currently live in Banja Luka, Bosnia and Herzegovina 📍
