@@ -12,7 +12,6 @@ If you want to know a little bit more about me and my life, feek free to follow 
     
 
 ### My skills: 
-
 Programming languages:
 - C/C++
 - Java
