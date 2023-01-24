@@ -5,19 +5,18 @@
 I'm Tarik Mujcic and I am a Full Stack Software Developer - mostly focused on developing quality software in Java and Angular. I'm very passionate about solving problems and creating different solutions. :eyes:      I currently live in Banja Luka, Bosnia and Herzegovina 📍
 
 ### My skills: 
-Programming languages:
-- Java (Java EE, Spring)
-- Angular
-- C/C++
-- HTML/CSS/JavaScript/TypeScript
+✅ Java/JEE, JavaFX
+✅ Spring (MVC, AOC, Data, Security,...), Spring Boot
+✅ Maven
+✅ JDBC, Hibernate
+✅ TypeScript, Angular, HTML, CSS
+✅ Database design and implementation
+✅ PostgreSQL, MySQL, MSSQL, OracleSQL
+✅ Unit & Integration testing (Junit, Mockito, Jasmine,...)
+✅ REST APIs
+✅ Jenkins, Nexus
+✅ Git & GitHub, GitLab, BitBucket
 
-Other: 
-- Working with relational databases (PostgreSQL, MSSQL)
-- JavaFX frontend Framework
-- Git & GitHub
-
-Currently learning and improving in:
-- ReactJS 
 
 [LINKEDIN](https://www.linkedin.com/in/tarik-mujcic-131582218) 🖇️     [INSTAGRAM](https://www.instagram.com/tarikmujcic) 📸
 
