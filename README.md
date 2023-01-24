@@ -2,7 +2,8 @@
 
 ### Hello World! :earth_americas:
 
-I'm Tarik Mujcic and I am a Full Stack Software Developer - mostly focused on developing quality software in Java and Angular. I'm very passionate about solving problems and creating different solutions. :eyes:      I currently live in Banja Luka, Bosnia and Herzegovina 📍
+I am Tarik Mujčić, a software developer - mostly focused on developing quality software in Java and Angular.
+My ultimate goal is to create and deliver reliable and quality software solutions that are providing the customer with easy-to-use software which makes their day-to-day activities a lot easier. I'm very passionate about solving problems and creating different solutions. :eyes:      I currently live in Banja Luka, Bosnia and Herzegovina 📍
 
 ### My skills: 
 
@@ -27,6 +28,7 @@ I'm Tarik Mujcic and I am a Full Stack Software Developer - mostly focused on de
 ✅ Jenkins, Nexus
 
 ✅ Git & GitHub, GitLab, BitBucket
+
 
 
 
